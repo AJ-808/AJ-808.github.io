@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Wealth</title>
 </head>
 <body>
-
-<h1>Wealth</h1>
-<p>Wealth is for the rich.</p>
-<p> wealth is a wanted thing for people but is not easy to achieve</p>
+<h1>This is a heading.</h1>
+<p>Wealth is wanted by most people in the world.</p>
 </body>
 </html>
+<p style="color:red;"> </p>
